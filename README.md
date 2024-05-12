@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/21f573b2125474997ce8fa9e175cc4fe3937ca3aba4502653bf1dca2f4ede0e9/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f312a304b464231375f4e47545042305857796334425367512e6a706567)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Biswajeet yadav</h1>
-<h3 align="center">life is about DATA.</h3>
+<h3 align="center">life is all about DATA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajeetyadavv&label=Profile%20views&color=0e75b6&style=flat" alt="biswajeetyadavv" /> </p>
 <img align="right" alt="Coding" width="400" src="https://kit8.net/wp-content/uploads/edd/2022/10/Idea_lost_in_thought_similar_1_preview.jpg"/>
