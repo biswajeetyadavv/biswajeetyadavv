@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on [Watchful Guardian](https://github.com/hasmithagunda123/ALL_INDIA_HACKATHON)
 
-- 🤝 I’m looking for help with [Wallet-API-Automation]([https://github.com/biswajeetyadavv/movie-recommender-system](https://github.com/biswajeetyadavv/Wallet-API-Automation))
+- 🤝 I’m looking for help with [Wallet-API-Automation](https://github.com/biswajeetyadavv/movie-recommender-system](https://github.com/biswajeetyadavv/Wallet-API-Automation))
 
 - 💬 Ask me about **python , data viz(tableau) data science related.**
 
