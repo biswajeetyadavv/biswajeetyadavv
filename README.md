@@ -45,7 +45,7 @@ const Biswajeet = {
    <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="100" height="100">
    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100">
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWd3MHdobzZ0bnByMWV2c2Voc3E1OXdzb21pZ3Y0ZW05MjdwcmRmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wThxaAsv4p9CjJOTsO/giphy.gif" width= "200"><br><br>
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWd3MHdobzZ0bnByMWV2c2Voc3E1OXdzb21pZ3Y0ZW05MjdwcmRmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wThxaAsv4p9CjJOTsO/giphy.gif" width= "100"><br><br>
       
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJycTF0a21yenp1OGE2N2xoamVhbGFsMGpiMm9zc20xdnc4MDlnMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/EK5nB6wQKKN86j7GWx/giphy.webp" width="100" height="100">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzMybHZ3YnFieDFtbmlvd2QwdW82d2JhYWpwamZ3N292NWI5a285ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/mfXF1iNaiNSuaDf4mi/200.webp" width="100" height="100">
