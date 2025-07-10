@@ -1,25 +1,74 @@
-<h3 align="center">life is all about DATA.</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Biswajeet!;I'm+a+learning+developer...)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajeetyadavv&label=Profile%20views&color=0e75b6&style=flat" alt="biswajeetyadavv" /> </p>
-<img align="right" alt="Coding" width="400" src="https://kit8.net/wp-content/uploads/edd/2022/10/Idea_lost_in_thought_similar_1_preview.jpg"/>
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZyeTdjNnk2ejlqbjF1cmtydzE0b3cwbXVubjY3bmU3eXc3ZzdybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JBSQu6cuMoBZMC6daR/giphy.gif">
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaalal&label=Profile%20views&color=0e75b6&style=flat" alt="eshaalal" /> </p>
 
 
-- 👯 I’m looking to collaborate on [Watchful Guardian](https://github.com/hasmithagunda123/ALL_INDIA_HACKATHON)
+## A little more about me.... 
+```javascript
+const Biswajeet = {
+  pronouns: "he" | "him",
+  code: ["Python", "Java", "JavaScript", "SQL"],
 
-- 🤝 I’m looking for help with [Wallet-API-Automation](https://github.com/biswajeetyadavv/movie-recommender-system](https://github.com/biswajeetyadavv/Wallet-API-Automation))
+  development & dataScience: {
+  libraries: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Seaborn", "TensorFlow"],
+  tools: ["Jupyter Notebook", "Google Colab", "Tableau", "Power BI"],
+  concepts: ["EDA", "Machine Learning", "Data Visualization", "Predictive Modeling", "Recommendation Systems"],
+  development: ["HTML", "CSS", "JavaScript", "MySQL", "Vercel", "Docker"]
+  },
 
-- 💬 Ask me about **python , data viz(tableau) data science related.**
+  tools: ["VSCode", "Git", "GitHub", "Postman"],
+  interests: ["Full-Stack Development", "AI Products", "Data-driven Applications"]
+  
+}
+```
 
-- 📫 How to reach me **biswajeetyadavofficial@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+## Profiles 
+<br>
 <p align="left">
-<a href="https://linkedin.com/in/biswajeet-yadav-data" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biswajeet-yadav-data" height="30" width="40" /></a>
-<a href="https://instagram.com/biswjeetyadavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biswjeetyadavv" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/biswajeetyadavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="biswajeetyadavv" height="30" width="40" /></a>
+<a href="https://x.com/BiswajeetYadavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eshatwt" height="30" width="40" /></a>
+<a href="https://instagram.com/biswajeetyadavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eshalal._" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/biswajeetyadavv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eshaalal" height="30" width="40" /></a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+
+<br>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZngyNm83ZGhlODh5MDVreW1yNHdqbTY2MDV4Y2YzZ2FjbThteXR2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="100" height="100">
+   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100">
+   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWd3MHdobzZ0bnByMWV2c2Voc3E1OXdzb21pZ3Y0ZW05MjdwcmRmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wThxaAsv4p9CjJOTsO/giphy.gif" width= "200"><br><br>
+      
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJycTF0a21yenp1OGE2N2xoamVhbGFsMGpiMm9zc20xdnc4MDlnMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/EK5nB6wQKKN86j7GWx/giphy.webp" width="100" height="100">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNkMTRmYjZjZWRlNzlhMGUxYmM5YTkyZmM2YWNiMzdhODVmN2Q4MSZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/JqDcpPX8vWahUny0pE/giphy.gif" width="100" height="100">
+ 
+    
+
+
+
+
+  <br>
+</p>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
