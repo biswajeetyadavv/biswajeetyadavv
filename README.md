@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Biswajeet!;I'm+a+learning+developer...)](https://git.io/typing-svg)
 
+
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZyeTdjNnk2ejlqbjF1cmtydzE0b3cwbXVubjY3bmU3eXc3ZzdybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JBSQu6cuMoBZMC6daR/giphy.gif">
 </p>
